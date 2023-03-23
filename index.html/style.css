@@ -45,7 +45,7 @@ ul li {
     margin: 15px 0;
 }
 
-.disclaimer {
+blockquote {
     margin-top: 20px;
 }
 
@@ -53,9 +53,19 @@ ul li strong {
     font-weight: 600;
 }
 
-footer {
+/*footer {
     padding: 5px;
     line-height: 1.3em;
+}*/
+
+h3{
+    font-size: 32px;
+}
+h2{
+    font-size: 44px ;
+}
+h1{
+    font-size: 60px;
 }
 
 #savior {
