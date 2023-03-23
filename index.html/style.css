@@ -22,9 +22,34 @@ img {
     margin-bottom: 15px;
     max-width: 100%;
     height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #tribute-info {
     width: 60%;
     margin: 0 auto;
+}
+
+h3,
+ul {
+    margin-bottom: 40px;
+}
+
+ul li {
+    margin: 15px 0;
+}
+
+.disclaimer {
+    margin-top: 20px;
+}
+
+ul li strong {
+    font-weight: 600;
+}
+
+footer {
+    padding: 5px;
+    line-height: 1.3em;
 }
