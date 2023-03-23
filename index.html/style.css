@@ -7,6 +7,10 @@
     box-sizing: border-box;
 }
 
+* {
+    margin: 30px;
+}
+
 #title {
     font-size: 64px;
     padding-top: 50px;
@@ -62,4 +66,8 @@ h2{
 }
 h1{
     font-size: 60px;
+}
+
+#savaior {
+    text-align: center;
 }
